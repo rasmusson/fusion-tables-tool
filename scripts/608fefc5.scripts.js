@@ -1,1 +1,0 @@
-"use strict";angular.module("fusionTablesToolApp",[]),angular.module("fusionTablesToolApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
